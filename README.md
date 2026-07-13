@@ -1,2 +1,2 @@
-# PerfectCheater-
+# PerfectCheater
 A CoreTrust Bypass Vulnerability
